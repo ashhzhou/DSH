@@ -1,5 +1,7 @@
 # DSH
 
+本仓库由 dsh-superagent 试点维护。
+
 这个仓库是 [`dsh-superagent`](https://github.com/deepseek-ai/dsh-superagent-prototype) 的试点仓库：
 一个常驻的编码智能体（GitHub 账号 [`@rapeon-dsh`](https://github.com/rapeon-dsh)）在这里接需求、开工单、提 PR。
 
